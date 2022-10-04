@@ -31,6 +31,8 @@ body,html{
 	z-index:2;
 	width:80%;
 	text-align:center;
+	border-radius: 20px;
+	padding:1 rem;
 }
 .divider{
 	padding-left:22%;
